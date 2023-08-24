@@ -1,0 +1,14 @@
+{
+    "name": "bazoka-kaka/php-pdf",
+    "description": "Converting html tables into pdf",
+    "type": "project",
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    },
+    "authors": [
+        {
+            "name": "bazoka-kaka",
+            "email": "yehezkielwiradhika@gmail.com"
+        }
+    ]
+}
